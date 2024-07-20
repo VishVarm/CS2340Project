@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">CS2340A_Team43</string>
+    <string name="enter_name">Enter your name:</string>
+    <string name="choose_difficulty">Select difficulty:</string>
+    <string name="easy_difficulty">Easy (50 HP)</string>
+    <string name="medium_difficulty">Medium (30 HP)</string>
+    <string name="hard_difficulty">Hard (15 HP)</string>
+    <string name="select_sprite">Select a sprite:</string>
+    <string name="sprite1_description">Sprite 1 choice</string>
+    <string name="sprite2_description">Sprite 2 choice</string>
+    <string name="sprite3_description">Sprite 3 choice</string>
+    <string name="start_button_text">Start</string>
+    <string name="title_text">Welcome To Video Game!</string>
+    <string name="quit_button_text">Exit</string>
+    <string name="end_game_screen_text">Hooray! You won!</string>
+    <string name="restart_button_text">Restart</string>
+    <string name="leaderboard_text">Leaderboard</string>
+    <string name="most_recent_text">Most Recent</string>
+    <string name="player_name">Player:</string>
+    <string name="score">Score:</string>
+    <string name="start_time">Start Time:</string>
+    <string name="end_time">End Time:</string>
+    <string name="you_win">You Win!</string>
+    <string name="you_lose">You Lose!</string>
+    <string name="welcome">Welcome to Finals in the Culc!</string>
+</resources>
